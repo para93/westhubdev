@@ -8,7 +8,7 @@ jobs:
 
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: alpine
 
     steps:
     - name: Check out the repo
